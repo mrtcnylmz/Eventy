@@ -1,6 +1,6 @@
-# map_deneme
+# Eventy
 
-Yeni deneme.
+Eventy Arkadaşlar arası Lokasyon uygulaması.
 
 ## Getting Started
 
