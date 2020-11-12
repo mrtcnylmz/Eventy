@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170439625987",
+    "firebase_url": "https://harita-firebase.firebaseio.com",
+    "project_id": "harita-firebase",
+    "storage_bucket": "harita-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170439625987:android:81752fda2682d47e466d36",
+        "android_client_info": {
+          "package_name": "com.kent.map_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170439625987-9tliu8mpnq4a3g6obo7rekicmglk3im4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kent.map_deneme",
+            "certificate_hash": "623e89438b72813aa1955fa87dd95ac02fdb438f"
+          }
+        },
+        {
+          "client_id": "170439625987-b69jc74thogjor19mgbbaeltlstl4gv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwHwRpKodvBw6OqjyvF8O662acANSudk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170439625987-b69jc74thogjor19mgbbaeltlstl4gv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
